@@ -1,0 +1,5 @@
+![image](https://github.com/Marian-Kromel/Ecommerce-Website-Using-React-JS/assets/114115216/3eed76a5-36a4-4eef-8a18-8bf408bf432f)
+![image](https://github.com/Marian-Kromel/Ecommerce-Website-Using-React-JS/assets/114115216/aa373cb9-a168-4c9e-96d9-da0f2c34fdb5)
+![image](https://github.com/Marian-Kromel/Ecommerce-Website-Using-React-JS/assets/114115216/18742ff9-9f90-4b7f-a014-17b40736371b)
+![image](https://github.com/Marian-Kromel/Ecommerce-Website-Using-React-JS/assets/114115216/81a24067-e1f4-42a8-8d89-4f45c0e737a5)
+![image](https://github.com/Marian-Kromel/Ecommerce-Website-Using-React-JS/assets/114115216/73219a16-622c-4968-8cde-b022d315536b)
